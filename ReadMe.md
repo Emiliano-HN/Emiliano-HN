@@ -1,5 +1,5 @@
 # About Me:
-Soy Emiliano Navarrete, programador junior con experiencia en proyectos académicos y personales, orientado a escribir código limpio y entendible. Me interesa la Ciberseguirdad eficiente, la resolución de problemas y el crecimiento constante en áreas como Redes, bases de datos y Sistemas Operativos. Mi objetivo es seguir fortaleciendo mis habilidades técnicas mientras aporto al equipo con energía, creatividad y compromiso.
+Soy Emiliano Navarrete, junior en ciberseguridad con experiencia en hakeos eticos empresariales y personales, orientado a escribir código. Me interesa la Ciberseguirdad eficiente, la resolución de problemas y el crecimiento constante en áreas como Redes, bases de datos y Sistemas Operativos. Mi objetivo es seguir fortaleciendo mis habilidades técnicas mientras aporto al mundo con energía, creatividad y compromiso.
 
 
 ## Socials:
