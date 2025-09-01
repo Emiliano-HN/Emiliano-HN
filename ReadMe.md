@@ -34,7 +34,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 <h2 >Up-to-date repositories</h2>
 
 
-<h2>GitHub :octocat:</h2>
+<h2>GitHub</h2>
 <p align="center">
 <table align="left">
 <tr border="none">
