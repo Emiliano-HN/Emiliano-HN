@@ -1,7 +1,10 @@
 <h1 align="center">Hello, I'm engineer Emiliano.</h1> 
 
 <p align="left">
-[![Instagram](assets/Instagram.svg)](https://tusitio.com)
+<a href="https://tusitio.com">
+  <img src="assets/Instagram.svg" alt="Instagram" width="150"/>
+</a>
+
 
 </p>
 
