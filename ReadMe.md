@@ -18,7 +18,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 <table>
   <tr>
     <td align="center">C<br>
-        <img src="Data/" width="60" height="60" alt="C">
+        <img src="Data/C.png" width="60" height="60" alt="C">
     </td>
     <td align="center">Nexor<br>
         <img src="Nexor-Data/Nexor-imagenes/qr-code.png" width="60" height="60" alt="Descargar">
