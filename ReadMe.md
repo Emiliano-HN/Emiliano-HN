@@ -34,7 +34,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 </p>
 <br>
 <div id="proyectos">
-<h2 >Up-to-date repositories</h2>
+<h2 >Repositories</h2>
 
 
 <h2>GitHub</h2>
