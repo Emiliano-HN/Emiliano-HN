@@ -10,5 +10,5 @@
 
 <h1 align="center">about me:</h1>
 <p>I'm Emiliano, a cybersecurity engineer born in Saltillo, Coahuila, and currently living in Santa Fe, Mexico City, at the age of 20.
-My passion is programming and everything that involves solving problems with code, from developing software to creating and experimenting with games where logic and programming are key.
-I'm motivated by constant learning, exploring new technologies, and applying them to projects that combine security, creativity, and efficiency.</p>
+I'm passionate about programming, especially anything that involves solving problems and creating games that require logic and code.
+I have a fun and playful personality; I don't take things too seriously... except when it's something I'm passionate about or my job, when I really give my all to achieve quality results.</p>
