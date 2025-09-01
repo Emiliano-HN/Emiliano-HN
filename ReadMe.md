@@ -36,7 +36,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 <div id="proyectos">
 <h2 >Repositories</h2>
 <a href="https://github.com/usuario/repositorio" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Visitar%20Repo-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <img src="https://github.com/Emiliano-HN/Nexor" alt="GitHub">
 </a>
 
 <h2>GitHub</h2>
