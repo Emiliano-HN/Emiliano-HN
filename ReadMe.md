@@ -1,10 +1,12 @@
 <h1 align="center">Hello, I'm engineer Emiliano.</h1> 
 
 <p align="left">
-<a href="https://tusitio.com">
+<a href="https://www.instagram.com/emilian_of/">
   <img src="assets/Instagram.svg" alt="Instagram" width="50"/>
 </a>
-
+<a href="https://www.linkedin.com/in/emiliano-hern%C3%A1ndez-478bab381/">
+  <img src="assets/LinkedIn.svg" alt="LinkedIn" width="50"/>
+</a>
 
 </p>
 
