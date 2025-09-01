@@ -14,3 +14,14 @@ I'm passionate about programming, especially anything that involves solving prob
 I have a fun and playful personality; I don't take things too seriously... except when it's something I'm passionate about or my job, when I really give my all to achieve quality results.</p>
 
 <h1 align="center">Technologies I manage:</h1>
+
+<table>
+  <tr>
+    <td align="center">C<br>
+        <img src="Data/" width="60" height="60" alt="C">
+    </td>
+    <td align="center">Nexor<br>
+        <img src="Nexor-Data/Nexor-imagenes/qr-code.png" width="60" height="60" alt="Descargar">
+    </td>
+  </tr>
+</table>
