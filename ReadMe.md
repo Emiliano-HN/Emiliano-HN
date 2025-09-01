@@ -20,8 +20,8 @@ I have a fun and playful personality; I don't take things too seriously... excep
     <td>
         <img src="Data/C.png" width="60" height="60" alt="C">
     </td>
-    <td align="center">Nexor<br>
-        <img src="Nexor-Data/Nexor-imagenes/qr-code.png" width="60" height="60" alt="Descargar">
+    <td>
+        <img src="Data/" width="60" height="60" alt="Descargar">
     </td>
   </tr>
 </table>
