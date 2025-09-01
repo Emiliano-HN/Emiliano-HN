@@ -15,7 +15,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Mastered technologies</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,dotnet,css,html,js,nodejs,mysql,git,github,docker,vscode,bash,linux,ai,ps&perline=12" />
@@ -23,7 +23,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 </p>
 <br>
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Up-to-date repositories</h2>
 
 <table align="left" >
 <tr border="none">
