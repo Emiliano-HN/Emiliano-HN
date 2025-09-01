@@ -23,5 +23,29 @@ I have a fun and playful personality; I don't take things too seriously... excep
     <td>
         <img src="Data/Nexor.png" width="60" height="60" alt="Nexor">
     </td>
+        <td>
+        <img src="Data/" width="60" height="60" alt="C++">
+    </td>
+    <td>
+        <img src="Data/" width="60" height="60" alt="C#">
+    </td>
+        <td>
+        <img src="Data/C.png" width="60" height="60" alt="C">
+    </td>
+    <td>
+        <img src="Data/" width="60" height="60" alt="">
+    </td>
+        <td>
+        <img src="Data/" width="60" height="60" alt="">
+    </td>
+    <td>
+        <img src="Data/" width="60" height="60" alt="">
+    </td>
+        <td>
+        <img src="Data/C.png" width="60" height="60" alt="">
+    </td>
+    <td>
+        <img src="Data/" width="60" height="60" alt="">
+    </td>
   </tr>
 </table>
