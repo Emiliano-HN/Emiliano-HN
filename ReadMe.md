@@ -7,7 +7,10 @@
 <a href="https://www.linkedin.com/in/emiliano-hern%C3%A1ndez-478bab381/">
   <img src="assets/LinkedIn.svg" alt="LinkedIn" width="50"/>
 </a>
-
+</a>
+<a href="mailto:eh8434573@gmail.com">
+  <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
+</a>
 </p>
 
 <br>
