@@ -63,3 +63,4 @@ I have a fun and playful personality; I don't take things too seriously... excep
 </p>        
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
