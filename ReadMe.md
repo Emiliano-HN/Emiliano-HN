@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://tusitio.com">
-  <img src="assets/Instagram.svg" alt="Instagram" width="150"/>
+  <img src="assets/Instagram.svg" alt="Instagram" width="50"/>
 </a>
 
 
