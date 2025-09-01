@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm engineer Emiliano.</h1> 
 
 <p align="left">
-  <a href="https://www.youtube.com/@h3rnix_dev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="https://www.youtube.com/@h3rnix_dev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@h3rnix_dev"  /></a>
+<a href="https://www.linkedin.com/in/emiliano-hern%C3%A1ndez-478bab381/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="h3rnix"/></a>
+<a href = "mailto:eh8434573@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eh8434573@gmail.com"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
