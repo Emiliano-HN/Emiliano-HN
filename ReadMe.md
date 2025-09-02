@@ -36,7 +36,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
 <div id="proyectos">
 <h2 >Repositories</h2>
 <a href="https://github.com/Emiliano-HN/Nexor">
-  <img src="assets/Github-Dark.svg" alt="GitHub" width="50"/>
+  <img src="assets/Github-Nexor.png" alt="GitHub" width="50"/>
 </a>
 
 <h2>GitHub</h2>
