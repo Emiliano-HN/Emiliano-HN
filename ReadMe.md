@@ -40,7 +40,7 @@ I have a fun and playful personality; I don't take things too seriously... excep
     <img src="assets/Github-Nexor.png" alt="GitHub" width="50"/>
   </a>
     <a href="https://github.com/Emiliano-HN/VulnScope">
-    <img src="assets/" alt="GitHub" width="50"/>
+    <img src="assets/GitHub-VulnScope.png" alt="GitHub" width="50"/>
   </a>
 </p>
 
