@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hello, I'm engineer Emiliano.</h1> 
 
-<div style="display:flex; gap:10px;">
+<span style="display:inline-flex; gap:10px;">
   <a href="https://www.instagram.com/emilian_of/">
     <img src="assets/Instagram.svg" alt="Instagram" width="50"/>
   </a>
@@ -13,7 +13,7 @@
   <a href="mailto:navarrete.emiliano.dev@gmail.com">
     <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
   </a>
-</div>
+</span>
 
 <br>
 <h2>about me</h2>
