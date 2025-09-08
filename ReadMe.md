@@ -35,14 +35,19 @@ I have a fun and playful personality; I don't take things too seriously... excep
 <br>
 <div id="proyectos">
 <h2 >Repositories</h2>
-<a href="https://github.com/Emiliano-HN/Nexor">
-  <img src="assets/Github-Nexor.png" alt="GitHub" width="50"/>
-</a>
+<p> 
+  <a href="https://github.com/Emiliano-HN/Nexor">
+    <img src="assets/Github-Nexor.png" alt="GitHub" width="50"/>
+  </a>
+    <a href="https://github.com/Emiliano-HN/VulnScope">
+    <img src="assets/" alt="GitHub" width="50"/>
+  </a>
+</p>
 
 <h2>GitHub</h2>
 <p align="center">
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Emiliano-HN&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
