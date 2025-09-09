@@ -19,9 +19,7 @@
 <h2>about me</h2>
 
 <p align="left">
-I'm Emiliano, a cybersecurity engineer born in Saltillo, Coahuila, and currently living in Santa Fe, Mexico City, at the age of 20.
-I'm passionate about programming, especially anything that involves solving problems and creating games that require logic and code.
-I have a fun and playful personality; I don't take things too seriously... except when it's something I'm passionate about or my job, when I really give my all to achieve quality results.
+Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Bachelor's Degree in Microcomputer Operator (EMCIA) | Computer Science Engineering with a specialization in Databases (UNAM) | Professional experience at BBVA México and Google (hybrid) | IPN Professor in Classical Physics I–IV, Advanced Mathematics, Topology, Linear and Quantum Algebra, Programming I–III, Networks I–III, Operating Systems I–II, Databases IV, V, and VII | Specialist in Operating Systems, Networks, Databases, Programming, and Cybersecurity | Training of high-level technological talent | Exceptional track record, discipline, and verifiable results
   </p>
 <br>
 
