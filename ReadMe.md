@@ -44,12 +44,12 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 <h2>university degrees</h2>
 
 <p> 
-    <img src="assets/Titulo IPN.png" alt="GitHub" width="800" height="1600"/>
-    <img src="assets/Titulo UNAM.png" alt="GitHub" width="800" height="1600"/>
+    <img src="assets/Titulo IPN.png" alt="GitHub" width="405" height="800"/>
+    <img src="assets/Titulo UNAM.png" alt="GitHub" width="405" height="800"/>
 </p>
 
 <p> 
-    <img src="assets/Titulo E.M.C.I.A.png" alt="GitHub" width="405" height="800"/>
+    <img src="assets/Titulo E.M.C.I.A.png" alt="GitHub" width="1600" height="800"/>
 </p>
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
