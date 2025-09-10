@@ -24,11 +24,12 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 <br>
 
 <h2 >Mastered technologies</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,php,py,dotnet,css,html,js,nodejs,mysql,git,github,docker,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
+
+<p> 
+    <img src="assets/" alt="GitHub" width="50"/>
+    <img src="assets/" alt="GitHub" width="50"/>
 </p>
+
 <br>
 <div id="proyectos">
 <h2 >Repositories</h2>
