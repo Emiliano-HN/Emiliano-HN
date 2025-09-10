@@ -75,7 +75,7 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 <div id="proyectos">
 <h2 >Repositories</h2>
 
-<ul style="list-style: none; display: flex; gap: 20px; padding: 0;">
+<ul style="list-style: none; display: flex; gap: 20px; padding: 0; margin: 0;">
   <li>
     <a href="https://github.com/Emiliano-HN/Nexor" target="_blank">
       <img src="assets/Github-Nexor.png" alt="GitHub Nexor" width="50"/>
@@ -87,7 +87,6 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
     </a>
   </li>
 </ul>
-
 
 <h2>university degrees</h2>
 
