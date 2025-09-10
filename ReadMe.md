@@ -14,7 +14,7 @@
     <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
   </a>
     <a href="">
-    <img src="assets/CV.svg" alt="CV" width="50"/>
+    <img src="assets/CV.png" alt="CV" width="50"/>
   </a>
 </span>
 
