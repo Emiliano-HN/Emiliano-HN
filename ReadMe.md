@@ -43,11 +43,12 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 
 <h2>university degrees</h2>
 
-<div style="display: flex; gap: 40px; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 50px;">
   <div style="text-align: center;">
     <p><strong>Título IPN</strong></p>
     <img src="assets/Titulo IPN.png" alt="Título IPN" width="405" height="800"/>
   </div>
+
   <div style="text-align: center;">
     <p><strong>Título UNAM</strong></p>
     <img src="assets/Titulo UNAM.png" alt="Título UNAM" width="405" height="800"/>
