@@ -26,6 +26,10 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 <h2 >Mastered technologies</h2>
 
 <p> 
+    <img src="assets/AndroidStudio-Dark.svg" alt="GitHub" width="50"/>
+    <img src="assets/Apple-Dark.svg" alt="GitHub" width="50"/>
+    <img src="assets/Arch-Dark.svg" alt="GitHub" width="50"/>
+    <img src="assets/" alt="GitHub" width="50"/>
     <img src="assets/" alt="GitHub" width="50"/>
     <img src="assets/" alt="GitHub" width="50"/>
 </p>
