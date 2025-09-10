@@ -13,6 +13,9 @@
   <a href="mailto:navarrete.emiliano.dev@gmail.com">
     <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
   </a>
+    <a href="">
+    <img src="assets/CV.svg" alt="Gmail" width="50"/>
+  </a>
 </span>
 
 <br>
