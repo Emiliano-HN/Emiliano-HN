@@ -77,39 +77,8 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 
 <div id="github-container" style="display: flex; gap: 20px; align-items: center;"></div>
 
-<script>
-  const repos = [
-    { url: "https://github.com/Emiliano-HN/Nexor", img: "assets/Github-Nexor.png", alt: "GitHub Nexor" },
-    { url: "https://github.com/Emiliano-HN/VulnScope", img: "assets/GitHub-VulnScope.png", alt: "GitHub VulnScope" }
-  ];
-
-  const container = document.getElementById('github-container');
-
-  repos.forEach(repo => {
-    const link = document.createElement('a');
-    link.href = repo.url;
-    link.target = "_blank";
-    link.classList.add('github-link');
-
-    const img = document.createElement('img');
-    img.src = repo.img;
-    img.alt = repo.alt;
-    img.width = 50;
-
-    link.appendChild(img);
-
-    container.appendChild(link);
-
-    link.addEventListener('mouseover', () => {
-      img.style.transform = 'scale(1.2)';
-      img.style.transition = 'transform 0.3s';
-    });
-
-    link.addEventListener('mouseout', () => {
-      img.style.transform = 'scale(1)';
-    });
-  });
-</script>
+[![GitHub Nexor](assets/Github-Nexor.png)](https://github.com/Emiliano-HN/Nexor) 
+[![GitHub VulnScope](assets/GitHub-VulnScope.png)](https://github.com/Emiliano-HN/VulnScope)
 
 <h2>university degrees</h2>
 
