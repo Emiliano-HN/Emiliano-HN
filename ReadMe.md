@@ -26,12 +26,49 @@ Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Ba
 <h2 >Mastered technologies</h2>
 
 <p> 
-    <img src="assets/AndroidStudio-Dark.svg" alt="GitHub" width="50"/>
-    <img src="assets/Apple-Dark.svg" alt="GitHub" width="50"/>
-    <img src="assets/Arch-Dark.svg" alt="GitHub" width="50"/>
-    <img src="assets/" alt="GitHub" width="50"/>
-    <img src="assets/" alt="GitHub" width="50"/>
-    <img src="assets/" alt="GitHub" width="50"/>
+    <img src="assets/AndroidStudio-Dark.svg" width="50"/>
+    <img src="assets/Apple-Dark.svg" width="50"/>
+    <img src="assets/Arch-Dark.svg" width="50"/>
+    <img src="assets/AWS-Dark.svg" width="50"/>
+    <img src="assets/Bash-Dark.svg" width="50"/>
+    <img src="assets/Blender-Dark.svg" width="50"/>
+    <img src="assets/C.svg" width="50"/>
+    <img src="assets/CLion-Dark.svg" width="50"/>
+    <img src="assets/CPP.svg" width="50"/>
+    <img src="assets/CS.svg" width="50"/>
+    <img src="assets/CSS.svg" width="50"/>
+    <img src="assets/Debian-Dark.svg" width="50"/>
+    <img src="assets/Django.svg" width="50"/>
+    <img src="assets/Docker.svg" width="50"/>
+    <img src="assets/DotNet.svg" width="50"/>
+    <img src="assets/Electron.svg" width="50"/>
+    <img src="assets/GCP-Dark.svg" width="50"/>
+    <img src="assets/Git.svg" width="50"/>
+    <img src="assets/Github-Dark.svg" width="50"/>
+    <img src="assets/GoLang.svg" width="50"/>
+    <img src="assets/HTML.svg" width="50"/>
+    <img src="assets/Idea-Dark.svg" width="50"/>
+    <img src="assets/Illustrator.svg" width="50"/>
+    <img src="assets/Java-Dark.svg" width="50"/>
+    <img src="assets/JavaScript.svg" width="50"/>
+    <img src="assets/Kali-Dark.svg" width="50"/>
+    <img src="assets/Kotlin-Dark.svg" width="50"/>
+    <img src="assets/Linux-Dark.svg" width="50"/>
+    <img src="assets/arkdown-Dark.svg" width="50"/>
+    <img src="assets/Mint-Dark.svg" width="50"/>
+    <img src="assets/MySQL-Dark.svg" width="50"/>
+    <img src="assets/NodeJS-Dark.svg" width="50"/>
+    <img src="assets/Npm-Dark.svg" width="50"/>
+    <img src="assets/PHP-Dark.svg" width="50"/>
+    <img src="assets/Photoshop.svg" width="50"/>
+    <img src="assets/PhpStorm-Dark.svg" width="50"/>
+    <img src="assets/Powershell-Dark.svg" width="50"/>
+    <img src="assets/PyCharm-Dark.svg" width="50"/>
+    <img src="assets/Python-Dark.svg" width="50"/>
+    <img src="assets/React-Dark.svg" width="50"/>
+    <img src="assets/RedHat-Dark.svg" width="50"/>
+    <img src="assets/RobloxStudio.svg" width="50"/>
+    <img src="assets/Sublime-Dark.svg" width="50"/>
 </p>
 
 <br>
