@@ -22,8 +22,25 @@
 <h2>about me</h2>
 
 <p align="left">
-Emiliano Hernández Navarrete | 20 years old | Cybersecurity Engineer (IPN) | Bachelor's Degree in Microcomputer Operator (EMCIA) | Computer Science Engineering with a specialization in Databases (UNAM) | Professional experience at BBVA México and Google (hybrid) | IPN Professor in Classical Physics I–IV, Advanced Mathematics, Topology, Linear and Quantum Algebra, Programming I–III, Networks I–III, Operating Systems I–II, Databases IV, V, and VII | Specialist in Operating Systems, Networks, Databases, Programming, and Cybersecurity | Training of high-level technological talent | Exceptional track record, discipline, and verifiable results
-  </p>
+Emiliano Hernández Navarrete
+
+Cybersecurity Engineer | Computer Science Engineer | Professor and Researcher in Exact Sciences and Technology
+
+Academic training at the IPN (Cybersecurity Engineering) and UNAM (Computer Science Engineering, specializing in Databases). This is complemented by a teaching career at the IPN, teaching advanced courses in Classical Physics, Higher Mathematics, Linear and Quantum Algebra, Topology, Programming, Networks, Operating Systems, and Databases.
+
+Professional experience at Google and BBVA México (hybrid model), developing projects in cybersecurity, critical infrastructure, risk management, and the protection of sensitive data.
+
+Areas of specialization:
+
+Offensive and defensive cybersecurity applied to business environments.
+
+Architecture, management, and protection of mission-critical databases.
+
+Design, implementation, and optimization of secure networks and operating systems.
+
+Training of high-level technological talent in engineering and exact sciences.
+
+At just 20 years old, I have a proven track record of discipline, results, and academic and professional leadership, integrating science, engineering, and cybersecurity for high-impact technological innovation.
 <br>
 
 <h2 >Mastered technologies</h2>
