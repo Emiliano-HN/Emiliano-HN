@@ -110,7 +110,7 @@ At just 20 years old, I have a proven track record of discipline, results, and a
 
 <span style="display:inline-flex; gap:10px;">
   <a href="">
-    <img src="assets/Logo Titulo.png" alt="Tituloa Universitarios" width="50"/>
+    <img src="assets/Logo Titulos.png" alt="Tituloa Universitarios" width="50"/>
   </a>
   <a href="">
     <img src="assets/" alt="Certificados" width="50"/>
