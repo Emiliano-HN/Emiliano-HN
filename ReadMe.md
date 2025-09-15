@@ -108,13 +108,15 @@ At just 20 years old, I have a proven track record of discipline, results, and a
 
 <h2>university degrees</h2>
 
-<p>
-    <img src="assets/Titulo IPN.png" alt="GitHub" width="405" height="800"/> 
-    <img src="assets/Titulo UNAM.png" alt="GitHub" width="405" height="800"/>  
-</p>
-
-<p> 
-    <img src="assets/Titulo E.M.C.I.A.png" alt="GitHub" width="815" height="550"/>
-</p>
+<span style="display:inline-flex; gap:10px;">
+  <a href="">
+    <img src="assets/Logo Titulo.png" alt="Tituloa Universitarios" width="50"/>
+  </a>
+  <a href="">
+    <img src="assets/" alt="Certificados" width="50"/>
+  </a>
+  <a href="">
+    <img src="assets/" alt="Cartas de recomendación" width="50"/>
+</span>
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
