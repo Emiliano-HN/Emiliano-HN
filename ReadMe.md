@@ -112,7 +112,7 @@ At just 20 years old, I have a proven track record of discipline, results, and a
   <a href="https://github.com/Emiliano-HN/Titulo-UNIS">
     <img src="assets/Logo Titulos.png" alt="Tituloa Universitarios" width="50"/>
   </a>
-  <a href="https://github.com/Emiliano-HN/Titulos-Certificados">
+  <a href="https://github.com/Emiliano-HN/TDC">
     <img src="assets/Logo Certificados.png" alt="Certificados" width="50"/>
   </a>
   <a href="https://github.com/Emiliano-HN/CDR">
