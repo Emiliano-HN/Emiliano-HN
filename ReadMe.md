@@ -109,7 +109,7 @@ At just 20 years old, I have a proven track record of discipline, results, and a
 <h2>university degrees</h2>
 
 <span style="display:inline-flex; gap:10px;">
-  <a href="https://github.com/Emiliano-HN/Titulo-UNIS">
+  <a href="https://github.com/Emiliano-HN/TDU">
     <img src="assets/Logo Titulos.png" alt="Tituloa Universitarios" width="50"/>
   </a>
   <a href="https://github.com/Emiliano-HN/TDC">
