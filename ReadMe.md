@@ -119,6 +119,9 @@ At just 20 years old, I have a proven track record of discipline, results, and a
   <a href="https://github.com/Emiliano-HN/CamPhish" target="_blank">
     <img src="assets/GitHub-CamPhish.png" alt="GitHub AutoPayloadGen" width="50"/>
   </a>
+  <a href="https://github.com/Emiliano-HN/CamPhish" target="_blank">
+    <img src="assets/GitHub-Encriptador-de-texto.png" alt="GitHub Encriptador de texto" width="50"/>
+  </a>
 </p>
 
 <h2>university degrees</h2>
