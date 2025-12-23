@@ -119,7 +119,7 @@ Areas of interest
 <h2>university degrees</h2>
 
 <span style="display:inline-flex; gap:10px;">
-  <a href="">
+  <a href="https://github.com/Emiliano-HN/A-Titulos">
     <img src="assets/Logo Titulos.png" alt="Tituloa Universitarios" width="50"/>
   </a>
 </span>
