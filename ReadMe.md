@@ -95,9 +95,6 @@ At just 20 years old, I have a proven track record of discipline, results, and a
   <a href="https://github.com/Emiliano-HN/Nexor" target="_blank">
     <img src="assets/Github-Nexor.png" alt="GitHub Nexor" width="50"/>
   </a>
-  <a href="https://github.com/Emiliano-HN/VulnScope" target="_blank">
-    <img src="assets/GitHub-VulnScope.png" alt="GitHub VulnScope" width="50"/>
-  </a>
   <a href="https://github.com/Emiliano-HN/ATM" target="_blank">
     <img src="assets/GitHub-Cajero.png" alt="GitHub ATM" width="50"/>
   </a>
