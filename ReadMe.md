@@ -119,11 +119,9 @@ Areas of interest
 <h2>university degrees</h2>
 
 <span style="display:inline-flex; gap:10px;">
-  <a href="https://github.com/Emiliano-HN/TDU">
+  <a href="">
     <img src="assets/Logo Titulos.png" alt="Tituloa Universitarios" width="50"/>
   </a>
-  <a href="https://github.com/Emiliano-HN/CDR">
-    <img src="assets/Logo Recomendaciones.png" alt="Cartas de recomendación" width="50"/>
 </span>
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
