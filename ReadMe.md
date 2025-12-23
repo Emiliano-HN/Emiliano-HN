@@ -105,7 +105,7 @@ Areas of interest
 <div id="github-container" style="display: flex; gap: 20px; align-items: center;"></div>
 
 <p>
-  <a href="https://github.com/Emiliano-HN/Nexor" target="_blank">
+  <a href=https://github.com/Emiliano-HN/Z-Nexor" target="_blank">
     <img src="assets/Github-Nexor.png" alt="GitHub Nexor" width="50"/>
   </a>
   <a href="https://github.com/Emiliano-HN/Z-ATM" target="_blank">
