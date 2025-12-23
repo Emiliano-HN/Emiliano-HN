@@ -16,26 +16,39 @@
 <h2>about me</h2>
 
 <p align="left">
-Emiliano Hernández Navarrete
+  
+### Engineer Emiliano Hernández Navarrete
 
-Cybersecurity Engineer | Computer Science Engineer | Professor and Researcher in Exact Sciences and Technology
+Computer engineer. Cybersecurity specialist. Ethical Hacker working remotely.
 
-Academic training at the IPN (Cybersecurity Engineering) and UNAM (Computer Science Engineering, specializing in Databases). This is complemented by a teaching career at the IPN, teaching advanced courses in Classical Physics, Higher Mathematics, Linear and Quantum Algebra, Topology, Programming, Networks, Operating Systems, and Databases.
+About me
+• Technical background in programming
+• Computer Engineering degree from UNAM
+• Master’s degree in Cybersecurity from UNITEC
+• Remote Ethical Hacker at Sharck Offensive
 
-Professional experience at Google and BBVA México (hybrid model), developing projects in cybersecurity, critical infrastructure, risk management, and the protection of sensitive data.
+Education
+• Programming Technician. Vocational School 11
+• Computer Engineering. UNAM. 2016
+• Master’s Degree in Cybersecurity. UNITEC. 2019
 
-Areas of specialization:
+Professional focus
+• Penetration testing
+• Vulnerability analysis
+• Offensive security
+• Application and system security review
 
-Offensive and defensive cybersecurity applied to business environments.
+This GitHub
+• Programming projects
+• Security scripts
+• Cybersecurity practice work
+• Code focused on system analysis and protection
 
-Architecture, management, and protection of mission-critical databases.
-
-Design, implementation, and optimization of secure networks and operating systems.
-
-Training of high-level technological talent in engineering and exact sciences.
-
-At just 20 years old, I have a proven track record of discipline, results, and academic and professional leadership, integrating science, engineering, and cybersecurity for high-impact technological innovation.
-<br>
+Areas of interest
+• Software development
+• Offensive security
+• Network security
+• Ethical hacking
 
 <h2 >Mastered technologies</h2>
 
