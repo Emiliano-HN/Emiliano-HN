@@ -111,7 +111,7 @@ Areas of interest
   <a href="https://github.com/Emiliano-HN/ATM" target="_blank">
     <img src="assets/GitHub-Cajero.png" alt="GitHub ATM" width="50"/>
   </a>
-   <a href="https://github.com/Emiliano-HN/AutoPayloadGen" target="_blank">
+   <a href="https://github.com/Emiliano-HN/Z-AutoPayloadGen" target="_blank">
     <img src="assets/GitHub-AutoPayloadGen.png" alt="GitHub AutoPayloadGen" width="50"/>
   </a>
 </p>
