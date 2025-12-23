@@ -108,7 +108,7 @@ Areas of interest
   <a href="https://github.com/Emiliano-HN/Nexor" target="_blank">
     <img src="assets/Github-Nexor.png" alt="GitHub Nexor" width="50"/>
   </a>
-  <a href="https://github.com/Emiliano-HN/ATM" target="_blank">
+  <a href="https://github.com/Emiliano-HN/Z-ATM" target="_blank">
     <img src="assets/GitHub-Cajero.png" alt="GitHub ATM" width="50"/>
   </a>
    <a href="https://github.com/Emiliano-HN/Z-AutoPayloadGen" target="_blank">
