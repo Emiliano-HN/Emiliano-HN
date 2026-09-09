@@ -61,4 +61,8 @@ Rather than sticking to standard web development like most people, I was drawn t
   </a>
 </p>
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+ <br>
+  <p align="center">
+  <img src="assets/github-contribution-grid-snake.sv" alt="snake"></center>
+</p>
+
