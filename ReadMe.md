@@ -20,7 +20,7 @@ That experience sparked my interest in tech, specifically Red Teaming—focusing
 
 Rather than sticking to standard web development like most people, I was drawn to penetration testing, phishing simulations, and offensive security techniques. I've created several repositories to showcase everything I've learned and built.
 
-<h2 >Mastered technologies</h2>
+<h2 >Currently Learning & Exploring</h2>
 
 <p> 
     <img src="assets/Arch-Dark.svg" width="50"/>
