@@ -39,6 +39,8 @@ Rather than sticking to standard web development like most people, I was drawn t
     <img src="assets/Linux-Dark.svg" width="50"/>
     <img src="assets/Powershell-Dark.svg" width="50"/>
     <img src="assets/Python-Dark.svg" width="50"/>
+    <img src="assets/VSCode-Dark.svg" width="50"/>
+    <img src="assets/Windows-Dark.svg" width="50"/>
 </p>
 
 <br>
