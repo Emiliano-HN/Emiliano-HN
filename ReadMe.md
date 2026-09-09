@@ -63,6 +63,6 @@ Rather than sticking to standard web development like most people, I was drawn t
 
  <br>
   <p align="center">
-  <img src="assets/github-contribution-grid-snake.sv" alt="snake"></center>
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
