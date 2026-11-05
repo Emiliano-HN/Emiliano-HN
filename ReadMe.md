@@ -8,7 +8,7 @@
     <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
   </a>
 
-  <a href="wwww.linkedin.com/in/emiliano-hernández-478bab381">
+  <a href="https://www.linkedin.com/in/emiliano-hern%C3%A1ndez-478bab381/">
     <img src="assets/LinkedIn.svg" alt="LinkedIn" width="50"/>
   </a>
 </span> 
