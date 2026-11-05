@@ -63,6 +63,6 @@ Rather than sticking to standard web development like most people, I was drawn t
 
  <br>
   <p align="center">
-  <img src="assets/coffee_transparent.webp" alt="snake"></center>
+  <img src="assets/coffee_transparent_grande.webp" alt="snake"></center>
 </p>
 
