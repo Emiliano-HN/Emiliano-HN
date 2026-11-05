@@ -30,6 +30,7 @@ Rather than sticking to standard web development like most people, I was drawn t
     <img src="assets/CS.svg" width="50"/>
     <img src="assets/CSS.svg" width="50"/>
     <img src="assets/Debian-Dark.svg" width="50"/>
+    <img src="assets/Docker.svg" width="50"/>
     <img src="assets/Git.svg" width="50"/>
     <img src="assets/Github-Dark.svg" width="50"/>
     <img src="assets/HTML.svg" width="50"/>
