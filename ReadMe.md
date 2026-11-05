@@ -7,7 +7,11 @@
   <a href="mailto:navarretehernan383@gmail.com">
     <img src="assets/Gmail-Dark.svg" alt="Gmail" width="50"/>
   </a>
-</span>
+
+  <a href="wwww.linkedin.com/in/emiliano-hernández-478bab381">
+    <img src="assets/LinkedIn.svg" alt="LinkedIn" width="50"/>
+  </a>
+</span> 
 
 <br>
 <h2>about me</h2>
